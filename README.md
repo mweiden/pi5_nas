@@ -19,7 +19,7 @@ Hardware:
 Software:
 * [OpenMediaVault](https://www.openmediavault.org/)
 * [WiringPi](https://github.com/WiringPi/WiringPi)
-* log_driver.c - from this repo, adapted from Freenove example
+* [log_driver.c](/lcd_driver.c) - from this repo, adapted from Freenove example
 
 ## LCD
 
