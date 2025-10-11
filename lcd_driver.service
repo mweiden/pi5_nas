@@ -1,0 +1,15 @@
+[Unit]
+Description=LCD Driver Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/lcd_driver
+Restart=always
+RestartSec=5
+User=root
+# Optional: set working directory if needed
+# WorkingDirectory=/usr/local/bin
+
+[Install]
+WantedBy=multi-user.target
