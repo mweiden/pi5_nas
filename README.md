@@ -2,6 +2,10 @@
 
 A homemade NAS inspired by this [blog post](https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas) (with some modifications).
 
+![05323D9B-5F5E-4422-972E-6C317B4DDB9D_1_105_c](https://github.com/user-attachments/assets/61597c8f-4c9a-4959-b169-007c0227acaa)
+
+![5B9BC972-0CA3-461A-91EA-1761F70D277C_1_105_c](https://github.com/user-attachments/assets/8a4ae2a1-de0f-46b7-8454-c30ac3384b5c)
+
 ## Specs
 
 Hardware:
